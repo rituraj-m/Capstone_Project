@@ -1,6 +1,6 @@
 # Capstone_Project
 
-https://sajalsharma.com/portfolio/customer_segments
+
 
 After creating a schema in Mongo DB we have to load the data using below command in command prompt.
 
